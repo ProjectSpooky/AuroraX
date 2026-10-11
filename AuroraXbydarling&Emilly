@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/luarmorv5/files/refs/heads/main/v4/loader/d0b0ed845b750cfcfdbed1eecc0d50c7105f76e4a480777b47b3"))()
+loadstring(game:HttpGet("https://aurorax.auroraxscript.workers.dev/script"))()
